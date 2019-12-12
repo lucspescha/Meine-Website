@@ -1,9 +1,9 @@
 # Meine-Website
-Der erste Test 
-<!doctype html>
-<html lang="de">
-	<head> 
-		
+
+    <!doctype html>
+    <html lang="de">
+    
+    <head> 
 		<link href="https://fonts.googleapis.com/css?family=Squada+One&display=swap" rel="stylesheet"> 
 		<meta charset="utf-8">
 		<title>Startseite | Luc Spescha</title>
